@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Shrikant Maid | Web Developer Portfolio</title>
+	<link rel="icon" type="images/icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThisP8aJcgO0dhAug6dWIhv_-nUeliF6-hyw&usqp=CAU"/>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<header>
+	<h1>Shrikant Maid</h1>
+	<h2>Professional Web Developer</h2>
+	<a href="Shrikant_Maid_Wordpress_Developer_Resume.pdf" target="_blank">Download CV</a>
+</header>
+<nav>
+	<ul>
+		<li><a href="index.php">About Me</a></li>
+		<li><a href="skills.php">Skills</a></li>
+		<li><a href="Projects.php" class="active">Projects</a></li>
+		<li><a href="hireme.php">Contact Me</li>
+	</ul>
+</nav>
+<h3>My Projects</h3>
+<div class="row">
+	<div class="column">
+		<div class="card" style="padding-bottom: 1.8rem;">
+			<img src="A1.png" width="100%" style="padding: 1.3rem;">
+			<a href="https://demohospital.online/" target="_blank" style="text-transform: uppercase; text-decoration: none; background-color: #daa520; padding: 1.2rem; border-radius: 5px; font-weight: bold; color: #333; padding: 1.2rem;">View Website</a>
+		</div>
+	</div>
+	<div class="column">
+		<div class="card" style="padding-bottom: 1.8rem;">
+			<img src="A2.png" width="100%" style="padding: 1.3rem;">
+			<a href="http://127.0.0.1/MakeMyLove/" target="_blank" style="text-transform: uppercase; text-decoration: none; background-color: #daa520; padding: 1.2rem; border-radius: 5px; font-weight: bold; color: #333; padding: 1.2rem;">View Website</a>
+		</div>
+	</div>
+	<div class="column">
+		<div class="card" style="padding-bottom: 1.8rem;">
+			<img src="A3.png" width="100%" style="padding: 1.3rem;">
+			<a href="http://coinpressturbo.com/" target="_blank" style="text-transform: uppercase; text-decoration: none; background-color: #daa520; padding: 1.2rem; border-radius: 5px; font-weight: bold; color: #333; padding: 1.2rem;">View Website</a>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="column">
+		<div class="card" style="padding-bottom: 1.8rem;">
+			<img src="https://static.vecteezy.com/system/resources/previews/004/243/615/original/creative-coming-soon-teaser-background-free-vector.jpg" width="100%" style="padding: 1.3rem;">
+			
+		</div>
+	</div>
+	<div class="column">
+		<div class="card" style="padding-bottom: 1.8rem;">
+			<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ8NDw0NDQ8PDw0PDQ0NDQ8NDQ0PFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NDg0NDisZFRk3KysrNy03Ky0tKystKysrNysrNy0rKy0tKy0tKzc3Ky0rLSsrKy0rKy0rKzcrKy0rLf/AABEIALcBEwMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAQIDB//EABgQAQEBAQEAAAAAAAAAAAAAAAABEeHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9qVFbZAgCgIKAAACgAAAAAqAigKAgoIAIFAABQAAABAAAAYVBRQAUCoGgoAAKAAAAAACoqAoCAIAAAAAKAACU0AFQAAGBFUUAFEVAVFAABRFAAAAAAQAACgKACACgAAUASKACAAADmqKoKkWAKigAqAAAACgAAAAAAIAKCAAAKAAAAAIAAAigOeiNKCxIoCooACAqRQAAURQAAAAAAAAAACgBAAAAAQAoAmioKxFQaRQEFABRIqAACgAAAqUMBYAAAAAAUAAAAAAAEAAAAEBzVFaFAQVBQUBAIAKIoAAEVFAAAAAAAAAAAAAQAAAAATQAc4qDQsVFQFRQAAUBAVAFAAABRAFSmgEUAAAAQAVARQABAUEAABzGWo0KACiKgoigAQFAQURQAAAAMVAFEAUQBUAAAAEBUAAEAVMAcosReNosVBFUAFAQUAFEAUBBRNAUAAAAAAQAigACAAACCgAAqAOMVINI0rKoqqgCrEAVWVQUAATVgKIqAAAqAAAAAAICiCioAAgAAAIKOS+g0iw0EFUEFNAUUAAEBQANAAUBNFAQUBNNUBAAAAQADUUUQAAAH//2Q==" width="100%" style="padding: 1.3rem;">
+			
+		</div>
+	</div>
+	<div class="column">
+		<div class="card" style="padding-bottom: 1.8rem;">
+			<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ8NDw0NDQ8PDw0PDQ0NDQ8NDQ0PFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NDg0NDisZFRk3KysrNy03Ky0tKystKysrNysrNy0rKy0tKy0tKzc3Ky0rLSsrKy0rKy0rKzcrKy0rLf/AABEIALcBEwMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAQIDB//EABgQAQEBAQEAAAAAAAAAAAAAAAABEeHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9qVFbZAgCgIKAAACgAAAAAqAigKAgoIAIFAABQAAABAAAAYVBRQAUCoGgoAAKAAAAAACoqAoCAIAAAAAKAACU0AFQAAGBFUUAFEVAVFAABRFAAAAAAQAACgKACACgAAUASKACAAADmqKoKkWAKigAqAAAACgAAAAAAIAKCAAAKAAAAAIAAAigOeiNKCxIoCooACAqRQAAURQAAAAAAAAAACgBAAAAAQAoAmioKxFQaRQEFABRIqAACgAAAqUMBYAAAAAAUAAAAAAAEAAAAEBzVFaFAQVBQUBAIAKIoAAEVFAAAAAAAAAAAAAQAAAAATQAc4qDQsVFQFRQAAUBAVAFAAABRAFSmgEUAAAAQAVARQABAUEAABzGWo0KACiKgoigAQFAQURQAAAAMVAFEAUQBUAAAAEBUAAEAVMAcosReNosVBFUAFAQUAFEAUBBRNAUAAAAAAQAigACAAACCgAAqAOMVINI0rKoqqgCrEAVWVQUAATVgKIqAAAqAAAAAAICiCioAAgAAAIKOS+g0iw0EFUEFNAUUAAEBQANAAUBNFAQUBNNUBAAAAQADUUUQAAAH//2Q==" width="100%" style="padding: 1.3rem;">
+			
+		</div>
+	</div>
+</div>
+<a  class="whats-app" href="https://wa.me/+919890964512" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+</a>
+</body>
+</html>
